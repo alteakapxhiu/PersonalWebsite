@@ -18,7 +18,7 @@ const Footer = () => {
 
         
 
-        <section className='mb-4'><section className='mb-4'>
+       <section className='mb-4'><section className='mb-4'>
           <MDBBtn outline color="light" floating className='m-1' href='https://alteakapxhiu.github.io/PersonalWebsite/#!' role='button'>
             <MDBIcon icon="home"   />
           </MDBBtn>
