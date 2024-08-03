@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.a9e422db.css",
+    "main.js": "/PersonalWebsite/static/js/main.f4289a37.js",
+    "static/js/453.b3efecc2.chunk.js": "/PersonalWebsite/static/js/453.b3efecc2.chunk.js",
+    "static/media/Glide.png": "/PersonalWebsite/static/media/Glide.f758238a2e03bc68ac41.png",
+    "static/media/Portfolio.png": "/PersonalWebsite/static/media/Portfolio.3a9706a3b0e5648b699f.png",
+    "static/media/fa-solid-900.ttf": "/PersonalWebsite/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/PersonalWebsite/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/PersonalWebsite/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/PersonalWebsite/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/CODEJEWELS.jpeg": "/PersonalWebsite/static/media/CODEJEWELS.cd4a8f1e3b7cf014c067.jpeg",
+    "static/media/Python.jpeg": "/PersonalWebsite/static/media/Python.5243ad6fb973a112e2a5.jpeg",
+    "static/media/fa-regular-400.ttf": "/PersonalWebsite/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/Konferenca.jpeg": "/PersonalWebsite/static/media/Konferenca.84490e244c15af316a00.jpeg",
+    "static/media/fa-regular-400.woff2": "/PersonalWebsite/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/revicons.eot": "/PersonalWebsite/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/PersonalWebsite/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/fa-v4compatibility.ttf": "/PersonalWebsite/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/revicons.woff": "/PersonalWebsite/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/PersonalWebsite/index.html",
+    "main.a9e422db.css.map": "/PersonalWebsite/static/css/main.a9e422db.css.map",
+    "main.f4289a37.js.map": "/PersonalWebsite/static/js/main.f4289a37.js.map",
+    "453.b3efecc2.chunk.js.map": "/PersonalWebsite/static/js/453.b3efecc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e422db.css",
+    "static/js/main.f4289a37.js"
+  ]
+}
