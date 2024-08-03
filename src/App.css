@@ -360,34 +360,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   color:blueviolet;
 }
 
-/* VideoPlayer.css */
-.video-container {
-  position: absolute;
-  }
-  
-  .video-player {
-    width: 20%;
-    margin-left: -440px;
-    margin-top: 180px;
-  }
-  
-  /* Media query for mobile devices */
-  @media (max-width: 768px) {
-    .video-player {
-      width: 60%;
-      margin-left: 0px;
-      margin-top: 0px;
-    }
-    
-  }
-  @media (min-width: 768px) and (max-width: 1024px) {
-    .video-player {
-      width: 25%;
-      margin-left: -50%;
-      margin-top: 0px;
-    }}
-  
-
 /************ Skills CSS ************/
 
 .skill {

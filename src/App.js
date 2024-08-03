@@ -12,7 +12,6 @@ import PopupMessage from './components/PopUp';
 import Education from './components/Education';
 import Experience from './components/Experience';
 import Footer from './components/Footer';
-import Altea from './components/Altea';
 
 function App() {
   const [showPopup, setShowPopup] = useState(true);
@@ -30,7 +29,6 @@ function App() {
     )}
     <div className="App">
       <NavBar  />
-      <Altea />
       <Banner />
       <MyCarousel />
       <Projects />
