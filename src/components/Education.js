@@ -36,7 +36,7 @@ const Education = () => {
           <h4 className="mb-3 pt-3">Master's</h4>
           <p>...</p>
         </li>
-        <li className="event" data-date="8:30 - 9:30pm">
+        <li className="event" data-date="00 - 00">
           <h4 className="mb-3 pt-3">Ph.D</h4>
           <p className="mb-0">...</p>
         </li>

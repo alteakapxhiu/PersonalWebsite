@@ -5,6 +5,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
+
 // SVG Paths
 
 export const NavBar = () => {
@@ -49,7 +50,7 @@ export const NavBar = () => {
               <div className="social-icon">
                 <a href="https://github.com/alteakapxhiu"><img src={"https://pngimg.com/d/github_PNG83.png"} alt="Github" /></a>
                 <a href="https://www.linkedin.com/in/alteakapxhiu/"><img src={"https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"} alt="Linkedin" /></a>
-                <a href="https://drive.google.com/file/d/16L7tniVEaURimsUND-eXyN0M3V4Pl6s4/view"><img src={"https://pic.onlinewebfonts.com/thumbnails/icons_558276.svg"} alt="" /></a>
+                <a href="https://drive.google.com/file/d/11oD8v2CuYcBA0hX1REPUVbmNnuAT7y06/view?usp=sharing"><img src={"https://pic.onlinewebfonts.com/thumbnails/icons_558276.svg"} alt="" /></a>
               </div>
             
               <a href="mailto:alteakapxhiu@gmail.com?subject=Let’s%20Connect&body=Hello%2C%0D%0AI%20would%20like%20to%20connect%20with%20you.%0D%0A%0D%0AThank%20you.">

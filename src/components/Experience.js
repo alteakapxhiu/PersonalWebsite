@@ -17,25 +17,25 @@ const Experience = () => {
               ref={ref}
               className={`timeline-2 ${inView ? 'slide-in' : ''}`}
             >
-              <li className="event" data-date="12:30 - 1:00pm">
+              <li className="event" data-date="2023 - 2023">
                 <h4 className="mb-3">Web-Designer</h4>
                 <p>
                   New-Wisdom Foreign Languages center
                 </p>
               </li>
-              <li className="event" data-date="2:30 - 4:00pm">
+              <li className="event" data-date="2023- 2024">
                 <h4 className="mb-3 pt-3">Web-Developer</h4>
                 <p>
                   Fancy Summer Sea View Apartments
                 </p>
               </li>
-              <li className="event" data-date="5:00 - 8:00pm">
+              <li className="event" data-date="00 - 00pm">
                 <h4 className="mb-3 pt-3">CS</h4>
                 <p>
                     ...
                 </p>
               </li>
-              <li className="event" data-date="8:30 - 9:30pm">
+              <li className="event" data-date="00 - 00">
                 <h4 className="mb-3 pt-3">CS</h4>
                 <p className="mb-0">
                      ...
