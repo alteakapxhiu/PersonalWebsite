@@ -7,4 +7,4 @@
 
 Watch a demo of the website in action:
 
-[![Watch the demo](https://img.youtube.com/vi/RsNB99HGBPY/maxresdefault.jpg)](https://youtu.be/T9_lZm-4Ydc?si=hf_NDYUo5FattsMU)
+[![Watch the demo](https://i.imghippo.com/files/G1Jj81722776505.png)](https://youtu.be/T9_lZm-4Ydc?si=hf_NDYUo5FattsMU)
