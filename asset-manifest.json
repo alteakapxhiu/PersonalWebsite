@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PersonalWebsite/static/css/main.dd601f5e.css",
-    "main.js": "/PersonalWebsite/static/js/main.bc1eacc6.js",
+    "main.js": "/PersonalWebsite/static/js/main.ffb2fad9.js",
     "static/js/453.b3efecc2.chunk.js": "/PersonalWebsite/static/js/453.b3efecc2.chunk.js",
     "static/media/Glide.png": "/PersonalWebsite/static/media/Glide.f758238a2e03bc68ac41.png",
     "static/media/AlteaGiF.mp4": "/PersonalWebsite/static/media/AlteaGiF.d2dfd992dfb9b9a8eeec.mp4",
@@ -22,11 +22,11 @@
     "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PersonalWebsite/index.html",
     "main.dd601f5e.css.map": "/PersonalWebsite/static/css/main.dd601f5e.css.map",
-    "main.bc1eacc6.js.map": "/PersonalWebsite/static/js/main.bc1eacc6.js.map",
+    "main.ffb2fad9.js.map": "/PersonalWebsite/static/js/main.ffb2fad9.js.map",
     "453.b3efecc2.chunk.js.map": "/PersonalWebsite/static/js/453.b3efecc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd601f5e.css",
-    "static/js/main.bc1eacc6.js"
+    "static/js/main.ffb2fad9.js"
   ]
 }
