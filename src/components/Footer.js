@@ -11,6 +11,16 @@ import {
 } from 'mdb-react-ui-kit';
 
 const Footer = () => {
+  const downloadFileAtURL = () => {
+    const url = '/AlteaKapxhiu-CV.pdf'; // Relative path to the file in the public folder
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = 'AlteaKapxhiu-CV.pdf'; // The name the file will be saved as
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   return (
     <MDBFooter className='text-center' color='white' bgColor='dark'>
       <MDBContainer className='p-4'>
@@ -64,22 +74,17 @@ const Footer = () => {
             </MDBCol>
 
               <MDBCol size="auto">
-                <a href="https://www.linkedin.com/in/alteakapxhiu/" target="_blank" rel="noopener noreferrer">
-                    <MDBBtn outline color="light" type="button" className="mb-4">
-                    Connect
-                    </MDBBtn>
-                </a>
+              <MDBBtn outline color="light" type="button" className="mb-4" onClick={downloadFileAtURL}>
+                  ⇩ Download CV
+                </MDBBtn>
             </MDBCol>
       
     
               <MDBCol size="auto">
               
              
-      <a href="/AlteaKapxhiu-CV.pdf" download="AlteaKapxhiu-CV.pdf">
-        <MDBBtn outline color="light" type="button" className="mb-4">
-          ⇩ Download CV
-        </MDBBtn>
-      </a>
+
+
     </MDBCol>
             </MDBRow>
           </form>
