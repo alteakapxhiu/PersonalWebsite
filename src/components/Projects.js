@@ -2,6 +2,7 @@ import { Col,Container,Tab,Nav,Row} from 'react-bootstrap';
 import { ProjectsCard } from './ProjectsCard';
 import Glide from '../assets/img/Glide.png';
 import Portfolio from '../assets/img/Portfolio.png';
+import Fancy from '../assets/img/Fancy.png';
 import { useInView } from 'react-intersection-observer';
 
 
@@ -31,7 +32,13 @@ export const Projects = () => {
             description: "My personal portfolio created using REACT",
           imgUrl: Portfolio,
           url: ""
-        }
+        },
+        {
+          title: "WORDPRESS WEBSITE",
+          description: "Fancy Sea View Apartment website developed using WordPress",
+        imgUrl: Fancy,
+        url: "https://fancysummerseaview1.wordpress.com/"
+      }
       ];
       
      const  projects1 = [

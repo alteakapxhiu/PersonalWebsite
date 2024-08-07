@@ -82,8 +82,8 @@ export const Certeficates = () => {
       ];
       const  projects3 = [
         {
-            title: "In Progress..",
-            description: "Undergoing Design & Development",
+            title: "CERTIFICATE OF ENGLISH LANGUAGE",
+            description: "Certificate of finishing all levels of English Language",
           imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
           url: ""
         },
@@ -116,11 +116,11 @@ export const Certeficates = () => {
                     <h2>MY PERSONAL CERTIFICATES</h2>
                     <hr/>
                     <p>
-This section showcases a collection of my personal projects. Each project is represented by a card that includes an image, title, and brief description.</p>
+This section showcases a collection of my personal certificates. Each certificate is represented by a card that includes an image, title, and brief description.</p>
 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Nav variant="pills" defaultActiveKey="/home">
                         <Nav.Item>
-                            <Nav.Link eventKey="first">SKILL RELATED CERTEFICATES</Nav.Link>
+                            <Nav.Link eventKey="first">SKILL RELATED CERTIFICATES</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="second">WOKSHOPS & CONFERENCES</Nav.Link>
