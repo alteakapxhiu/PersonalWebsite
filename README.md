@@ -3,7 +3,7 @@
 [MY WEBSITE]( https://alteakapxhiu.github.io/PersonalWebsite/#!)- Here, you'll find a showcase of my work, including web and mobile apps I've developed. Explore my projects, skills, certifications, CV, and other works. Feel free to get in touch to learn more about my experience in software development and other fields, as well as to find my contact options.
 
 
-![Personal Portfolio Website](https://www.imghippo.com/i/YQPIc1723491073.png)
+![Personal Portfolio Website](https://i.imghippo.com/files/QAy6u1723491134.png)
 
 # Watch a demo of the website in action:
 
