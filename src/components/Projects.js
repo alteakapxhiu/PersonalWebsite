@@ -2,7 +2,9 @@ import { Col,Container,Tab,Nav,Row} from 'react-bootstrap';
 import { ProjectsCard } from './ProjectsCard';
 import Glide from '../assets/img/Glide.png';
 import Portfolio from '../assets/img/Portfolio.png';
-import Fancy from '../assets/img/Fancy.png';
+import Fancy from '../assets/img/Fancy.jpeg';
+import MysticAlbania from '../assets/img/MysticAlbania.jpeg';
+import PersonalPortfolio from '../assets/img/PersonalPortfolio.jpeg';
 import { useInView } from 'react-intersection-observer';
 
 
@@ -30,7 +32,7 @@ export const Projects = () => {
         {
             title: "MY PERSONAL PORTFOLIO",
             description: "My personal portfolio created using REACT",
-          imgUrl: Portfolio,
+          imgUrl: PersonalPortfolio,
           url: ""
         },
         {
@@ -38,7 +40,13 @@ export const Projects = () => {
           description: "Fancy Sea View Apartment website developed using WordPress",
         imgUrl: Fancy,
         url: "https://fancysummerseaview1.wordpress.com/"
-      }
+      },
+      {
+        title: "MYSTIC ALBANIA",
+        description: "Tourism Website for Albania developed using React.js & Bootstrap ",
+      imgUrl: MysticAlbania,
+      url: "https://alteakapxhiu.github.io/MysticAlbania/"
+    }
       ];
       
      const  projects1 = [

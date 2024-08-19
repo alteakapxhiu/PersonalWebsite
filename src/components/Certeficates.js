@@ -2,6 +2,8 @@ import { Col,Container,Tab,Nav,Row} from 'react-bootstrap';
 import { ProjectsCard } from './ProjectsCard';
 import CODEJEWELS from '../assets/img/CODEJEWELS.jpeg';
 import Konferenca from '../assets/img/Konferenca.jpeg';
+import FinalDiploma from '../assets/img/FinalDiploma.jpeg';
+import CSHARP from '../assets/img/CSHARP.png';
 import Python from '../assets/img/Python.jpeg';
 import { useInView } from 'react-intersection-observer';
 
@@ -31,8 +33,8 @@ export const Certeficates = () => {
         {
             title: "Foundational C# with Microsoft Certification Exam",
             description: "Microscoft & FreeCodeCamp  ",
-          imgUrl: 'https://www.freecodecamp.org/news/content/images/2023/08/Microsoft-C-Sharp-Certification-1.png',
-          url: ""
+          imgUrl: CSHARP,
+          url: "https://www.freecodecamp.org/certification/AlteaKapxhiu/foundational-c-sharp-with-microsoft"
         }
       ];
       
@@ -63,7 +65,7 @@ export const Certeficates = () => {
             title: "Winning Certificate of Leadership Hackathon",
             description: "Albanian ICT Academy",
             imgUrl: CODEJEWELS,
-            url: "https://drive.google.com/file/d/1yQ3SgqzyiOzElYax2A2O3ajLg84A8oPg/view"
+            url: "https://my.certifyme.online/verify/07a449dc17682"
         },
             {
             title: "In Progress..",
@@ -82,14 +84,14 @@ export const Certeficates = () => {
       ];
       const  projects3 = [
         {
-            title: "CERTIFICATE OF ENGLISH LANGUAGE",
-            description: "Certificate of finishing all levels of English Language",
-          imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
-          url: ""
+            title: "FINAL DIPLOMA OF ENGLISH LANGUAGE",
+            description: "New Wisdom",
+          imgUrl: FinalDiploma ,
+          url: "https://credential.certifyme.online/verify/18387c4d17717"
         },
         {
-            title: "In Progress..",
-            description: "Undergoing Design & Development",
+            title: "FINAL TEST B2 LEVEL FRENCH ",
+            description: "Golden Future",
           imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
           url: ""
         },
@@ -132,7 +134,7 @@ This section showcases a collection of my personal certificates. Each certificat
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="fourth" >
-                            OTHER
+                           Foreign Languages
                             </Nav.Link>
                         </Nav.Item>
                         </Nav>
