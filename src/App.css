@@ -351,26 +351,26 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   position: absolute;
   }
   
-  .video-player {
-    width: 20%;
-    margin-left: -440px;
-    margin-top: 180px;
+  .gif-player {
+    width: 40%;
+    margin-left: -50px;
+    margin-top: 170px;
   }
   
   /* Media query for mobile devices */
   @media (max-width: 768px) {
-    .video-player {
-      width: 60%;
+    .gif-player {
+      width: 45%;
       margin-left: 0px;
-      margin-top: 0px;
+      margin-top: 60px;
     }
     
   }
   @media (min-width: 768px) and (max-width: 1024px) {
-    .video-player {
-      width: 25%;
-      margin-left: -50%;
-      margin-top: 0px;
+    .gif-player {
+      width: 40%;
+      margin-left: 0px;
+      margin-top: 60px;
     }}
 
 .txt-rotate > .wrap {

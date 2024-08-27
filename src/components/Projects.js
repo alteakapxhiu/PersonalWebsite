@@ -4,6 +4,9 @@ import Glide from '../assets/img/Glide.png';
 import Portfolio from '../assets/img/Portfolio.png';
 import Fancy from '../assets/img/Fancy.jpeg';
 import MysticAlbania from '../assets/img/MysticAlbania.jpeg';
+import Calculator from '../assets/img/Calculator.jpeg';
+import TaskPro from '../assets/img/TaskPro.jpeg';
+import Campus from '../assets/img/Campus.jpeg';
 import PersonalPortfolio from '../assets/img/PersonalPortfolio.jpeg';
 import { useInView } from 'react-intersection-observer';
 
@@ -26,7 +29,7 @@ export const Projects = () => {
         {
           title: "CALCULATOR APP",
           description: "A Simple calculator App created using Javascript.",
-          imgUrl: 'https://camo.githubusercontent.com/2dd14060c9ae199ceb8f9908cf026bb83a97df399cd7d8469f6763813edf9ab9/68747470733a2f2f692e696d67686970706f2e636f6d2f66696c65732f4e36546233313732303337343539372e706e67',
+          imgUrl: Calculator ,
           url: "https://alteakapxhiu.github.io/CalculatorApp/"
         },
         {
@@ -53,7 +56,7 @@ export const Projects = () => {
         {
           title: "TaskPro ",
           description: "Todo and Agenda tracking app using React-Native",
-          imgUrl: 'https://camo.githubusercontent.com/5210087be01853a0bb4663a81eb1ba59121f8c026b7a5f740b89de1228967949/68747470733a2f2f692e696d67686970706f2e636f6d2f66696c65732f6d355a354a313732313737383333332e6a7067',
+          imgUrl: TaskPro,
           url: "https://www.youtube.com/watch?v=9TDUVcv2_yM"
         },
         {
@@ -75,7 +78,7 @@ export const Projects = () => {
         {
             title: "Virtual University Campus Simulation",
             description: "A recreation of Polis-University campus into a VR version using Unreal Engine",
-            imgUrl: 'https://camo.githubusercontent.com/9b5e555d445fa1fcb375b858d622997f147eadad64c69788f3a5716d5e890e3b/68747470733a2f2f692e696d67686970706f2e636f6d2f66696c65732f426c45744c313732323031383831372e6a7067',
+            imgUrl: Campus,
             url: "https://www.youtube.com/watch?v=5dXgW0DyCNk"
           },
             {

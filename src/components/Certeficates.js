@@ -106,7 +106,7 @@ export const Certeficates = () => {
       ];
 
     return(
-        <section className="project" id="Certefications">
+        <section className="project" id="Certifications">
            <div
             ref={ref}
             className={`slide-in ${inView ? 'visible' : ''}`}
