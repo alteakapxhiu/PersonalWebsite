@@ -68,7 +68,7 @@ import { useInView } from 'react-intersection-observer';
                                 <div className='item'>
                                     <img src={ProgChart} alt='Programming Languages' />
                                     <h5>Programming Languages</h5>
-                                    <h6>JAVA / JAVASCRIPT / PYTHON</h6>
+                                    <h6>JAVA / JAVASCRIPT / PYTHON / C# </h6>
                                 </div>
                                 <div className='item'>
                                     <img src={FrontEndChart} alt='Frontend Development' />

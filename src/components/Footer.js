@@ -29,11 +29,11 @@ const Footer = () => {
         
 
        <section className='mb-4'><section className='mb-4'>
-       <MDBBtn outline color="light" floating className='m-1' href='https://i.imghippo.com/files/YdKeA1722767711.png' role='button'>
+       <MDBBtn outline color="light" floating className='m-1' href='sms:+3550675548654?body=Hello%20there!' role='button'>
   <MDBIcon icon="phone" />
 </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://alteakapxhiu.github.io/PersonalWebsite/#!' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='https://linktr.ee/alteakapxhiu' role='button'>
             <MDBIcon icon="globe" />
           </MDBBtn>
 

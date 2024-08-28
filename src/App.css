@@ -931,6 +931,11 @@ position:absolute;
     margin-top: -25%;;
     
   }
+  .phonestyles{
+    margin-top: 35%;
+    margin-left: 90%;
+    width:190%;
+  }
 }
 
 @media (max-width: 992px) { /* Adjust for tablets */
@@ -942,6 +947,7 @@ position:absolute;
     margin-top: -25%;
     
   }
+  
 }
 
 .timeline-2 .event {
@@ -1040,6 +1046,12 @@ position:absolute;
     align-items: center; /* Center items vertically */
     justify-content: space-around; /* Space items evenly */
     text-align: center; /* Center text */
+  }
+
+  .phonestyles{
+    margin-top: 10%;
+    margin-left: 10%;
+    width:100%
   }
 
   .education,
