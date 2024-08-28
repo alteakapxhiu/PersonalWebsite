@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.cb0a5b20.css",
-    "main.js": "/PersonalWebsite/static/js/main.50c61e57.js",
+    "main.css": "/PersonalWebsite/static/css/main.eba2d173.css",
+    "main.js": "/PersonalWebsite/static/js/main.c2ac75e6.js",
     "static/js/453.b3efecc2.chunk.js": "/PersonalWebsite/static/js/453.b3efecc2.chunk.js",
     "static/media/Glide.png": "/PersonalWebsite/static/media/Glide.f758238a2e03bc68ac41.png",
     "static/media/AlteaProfile.gif": "/PersonalWebsite/static/media/AlteaProfile.a0a21f92602156e4d04e.gif",
@@ -29,12 +29,12 @@
     "static/media/revicons.woff": "/PersonalWebsite/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PersonalWebsite/index.html",
-    "main.cb0a5b20.css.map": "/PersonalWebsite/static/css/main.cb0a5b20.css.map",
-    "main.50c61e57.js.map": "/PersonalWebsite/static/js/main.50c61e57.js.map",
+    "main.eba2d173.css.map": "/PersonalWebsite/static/css/main.eba2d173.css.map",
+    "main.c2ac75e6.js.map": "/PersonalWebsite/static/js/main.c2ac75e6.js.map",
     "453.b3efecc2.chunk.js.map": "/PersonalWebsite/static/js/453.b3efecc2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb0a5b20.css",
-    "static/js/main.50c61e57.js"
+    "static/css/main.eba2d173.css",
+    "static/js/main.c2ac75e6.js"
   ]
 }
