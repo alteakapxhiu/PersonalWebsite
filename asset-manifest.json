@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/PersonalWebsite/static/css/main.eba2d173.css",
-    "main.js": "/PersonalWebsite/static/js/main.c2ac75e6.js",
-    "static/js/453.b3efecc2.chunk.js": "/PersonalWebsite/static/js/453.b3efecc2.chunk.js",
+    "main.js": "/PersonalWebsite/static/js/main.5a10391d.js",
+    "static/js/453.aa95871c.chunk.js": "/PersonalWebsite/static/js/453.aa95871c.chunk.js",
     "static/media/Glide.png": "/PersonalWebsite/static/media/Glide.f758238a2e03bc68ac41.png",
     "static/media/AlteaProfile.gif": "/PersonalWebsite/static/media/AlteaProfile.a0a21f92602156e4d04e.gif",
+    "static/media/Italian.png": "/PersonalWebsite/static/media/Italian.0ddfa21b14ecee3be476.png",
+    "static/media/Pioneers.png": "/PersonalWebsite/static/media/Pioneers.b95730a78109c1b43198.png",
+    "static/media/Stefora.png": "/PersonalWebsite/static/media/Stefora.b4f92225ec8b7ed793b8.png",
     "static/media/Portfolio.png": "/PersonalWebsite/static/media/Portfolio.3a9706a3b0e5648b699f.png",
     "static/media/fa-solid-900.ttf": "/PersonalWebsite/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/BackendAltea.jpg": "/PersonalWebsite/static/media/BackendAltea.467418ea034506d4dff2.jpg",
     "static/media/FinalDiploma.jpeg": "/PersonalWebsite/static/media/FinalDiploma.3d3ff4a8434dd9d42989.jpeg",
     "static/media/Campus.jpeg": "/PersonalWebsite/static/media/Campus.70c31bc260b2b4f5b78d.jpeg",
     "static/media/fa-brands-400.ttf": "/PersonalWebsite/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -30,11 +34,11 @@
     "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PersonalWebsite/index.html",
     "main.eba2d173.css.map": "/PersonalWebsite/static/css/main.eba2d173.css.map",
-    "main.c2ac75e6.js.map": "/PersonalWebsite/static/js/main.c2ac75e6.js.map",
-    "453.b3efecc2.chunk.js.map": "/PersonalWebsite/static/js/453.b3efecc2.chunk.js.map"
+    "main.5a10391d.js.map": "/PersonalWebsite/static/js/main.5a10391d.js.map",
+    "453.aa95871c.chunk.js.map": "/PersonalWebsite/static/js/453.aa95871c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eba2d173.css",
-    "static/js/main.c2ac75e6.js"
+    "static/js/main.5a10391d.js"
   ]
 }
