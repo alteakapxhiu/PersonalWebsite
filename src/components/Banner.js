@@ -65,7 +65,7 @@ export const Banner = () => {
                             <br /><br />
                             As a dedicated computer science student, I am eager to leverage my programming skills to create efficient applications. Alongside software development, I have a keen interest in exploring cybersecurity, game development, data science, and network administration. My goal is to learn and adapt in the tech landscape, contributing to impactful projects and advancing my career and experience.
                           </p> <a href="mailto:alteakapxhiu@gmail.com?subject=Let’s%20Connect&body=Hello%2C%0D%0AI%20would%20like%20to%20connect%20with%20you.%0D%0A%0D%0AThank%20you.">
-                <button className="vvd"><span>Let’s Connect</span></button>
+                <button className="vvd" ><span>Let’s Connect</span></button>
               </a> 
                                       
               </Col>

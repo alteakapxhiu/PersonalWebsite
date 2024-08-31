@@ -34,7 +34,7 @@ export const Projects = () => {
         },
         {
             title: "MY PERSONAL PORTFOLIO",
-            description: "My personal portfolio created using REACT",
+            description: "My personal portfolio created using React.js, Bootstrap & Express ",
           imgUrl: PersonalPortfolio,
           url: ""
         },
@@ -55,7 +55,7 @@ export const Projects = () => {
      const  projects1 = [
         {
           title: "TaskPro ",
-          description: "Todo and Agenda tracking app using React-Native",
+          description: "Todo and Agenda tracking app using React-Native,Node.js & Expo",
           imgUrl: TaskPro,
           url: "https://www.youtube.com/watch?v=9TDUVcv2_yM"
         },

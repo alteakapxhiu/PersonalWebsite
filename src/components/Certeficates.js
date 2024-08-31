@@ -2,8 +2,12 @@ import { Col,Container,Tab,Nav,Row} from 'react-bootstrap';
 import { ProjectsCard } from './ProjectsCard';
 import CODEJEWELS from '../assets/img/CODEJEWELS.jpeg';
 import Konferenca from '../assets/img/Konferenca.jpeg';
+import Italian from '../assets/img/Italian.png';
 import FinalDiploma from '../assets/img/FinalDiploma.jpeg';
 import CSHARP from '../assets/img/CSHARP.png';
+import BackendAltea from '../assets/img/BackendAltea.jpg';
+import Stefora from '../assets/img/Stefora.png';
+import Pioneers from '../assets/img/Pioneers.png';
 import Python from '../assets/img/Python.jpeg';
 import { useInView } from 'react-intersection-observer';
 
@@ -18,6 +22,12 @@ export const Certeficates = () => {
     
 
     const projects = [
+      {
+        title: "Foundational C# with Microsoft Certification Exam",
+        description: "Microscoft",
+      imgUrl: CSHARP,
+      url: "https://www.freecodecamp.org/certification/AlteaKapxhiu/foundational-c-sharp-with-microsoft"
+    },
         {
           title: "LEARN PYTHON 3",
           description: "CODEACADEMY",
@@ -25,39 +35,41 @@ export const Certeficates = () => {
           url: "https://alteakapxhiu.github.io/Interactive-Shop-Business-Website/"
         },
         {
+          title: "Back End Development and APIs",
+          description: "FreeCodeCamp  ",
+        imgUrl: BackendAltea,
+        url: "https://www.freecodecamp.org/certification/AlteaKapxhiu/foundational-c-sharp-with-microsoft"
+      },
+        {
           title: "FULL-STACK DEVELOPMENT",
           description: "Albanian ICT Academy",
           imgUrl: 'https://albanianictacademy.com/wp-content/uploads/2024/01/logo-transparent.png',
           url: "https://alteakapxhiu.github.io/CalculatorApp/"
         },
-        {
-            title: "Foundational C# with Microsoft Certification Exam",
-            description: "Microscoft & FreeCodeCamp  ",
-          imgUrl: CSHARP,
-          url: "https://www.freecodecamp.org/certification/AlteaKapxhiu/foundational-c-sharp-with-microsoft"
-        }
+        
+  
       ];
       
      const  projects1 = [
-        {
-          title: "Participation in the Student’s Computer Science Conference “Digital Pioneers in the Transformation Era",
-          description: "POLIS UNIVERSITY",
-          imgUrl: Konferenca,
-          url: "https://www.youtube.com/watch?v=9TDUVcv2_yM"
-        },
-        {
-            title: "In Progress..",
-            description: "Undergoing Design & Development",
-          imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
-          url: ""
-        },
-        {
-            title: "In Progress..",
-            description: "Undergoing Design & Development",
-          imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
-          url: ""
-        },
-    
+      {
+        title: "FINAL DIPLOMA OF ENGLISH LANGUAGE  LEVEL C2",
+        description: "New Wisdom",
+      imgUrl: FinalDiploma ,
+      url: "https://credential.certifyme.online/verify/18387c4d17717"
+    },
+    {
+      title: "Final Test Level A2 Italian",
+      description: "New Wisdom",
+    imgUrl: Italian ,
+    url: "",
+  },
+    {
+        title: "FINAL TEST B2 LEVEL FRENCH ",
+        description: "Golden Future",
+      imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
+      url: ""
+    },
+   
       
       ];
       const  projects2 = [
@@ -84,16 +96,16 @@ export const Certeficates = () => {
       ];
       const  projects3 = [
         {
-            title: "FINAL DIPLOMA OF ENGLISH LANGUAGE",
-            description: "New Wisdom",
-          imgUrl: FinalDiploma ,
-          url: "https://credential.certifyme.online/verify/18387c4d17717"
+          title: "Digital Pioneers in the Transformation Era",
+          description: "Conference by Polis University",
+          imgUrl: Pioneers,
+          url: "https://drive.google.com/file/d/1DFUoNjv2qEnZ5lTQPWHlIXHF9RAVKlMm/view?usp=sharing"
         },
         {
-            title: "FINAL TEST B2 LEVEL FRENCH ",
-            description: "Golden Future",
-          imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
-          url: ""
+            title: "Digital Citizenship, STEM Engagement and Sustainability",
+            description: "Workshop by Polis University & Stefora Project",
+          imgUrl: Stefora,
+          url: "https://drive.google.com/file/d/1c21LW2At_2xQdOlJkbH3jLZcjG48PRYy/view?usp=sharing"
         },
         {
             title: "In Progress..",
@@ -101,6 +113,7 @@ export const Certeficates = () => {
           imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
           url: ""
         },
+       
     
       
       ];
@@ -122,10 +135,10 @@ This section showcases a collection of my personal certificates. Each certificat
 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Nav variant="pills" defaultActiveKey="/home">
                         <Nav.Item>
-                            <Nav.Link eventKey="first">SKILL RELATED CERTIFICATES</Nav.Link>
+                            <Nav.Link eventKey="first">PROGRAMMING CERTIFICATIONS</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
-                            <Nav.Link eventKey="second">WOKSHOPS & CONFERENCES</Nav.Link>
+                            <Nav.Link eventKey="second">ACADEMIC CERTIFICATIONS</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="third" >
@@ -134,7 +147,7 @@ This section showcases a collection of my personal certificates. Each certificat
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="fourth" >
-                           Foreign Languages
+                            WOKSHOPS & CONFERENCES
                             </Nav.Link>
                         </Nav.Item>
                         </Nav>
