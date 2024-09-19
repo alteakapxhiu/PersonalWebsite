@@ -25,7 +25,7 @@ export const Projects = () => {
           title: "INTERACTIVE BUSINESS WEBSITE",
           description: "A jewellery website responsive template designed and developed for shops/businesses to showcase and sell their products.",
           imgUrl: Jewellery,
-          url: "https://alteakapxhiu.github.io/Interactive-Shop-Business-Website/"
+          url: "https://alteakapxhiu.github.io/Jewelry-E-Commerce-Website/"
         },
         {
           title: "CALCULATOR APP",
