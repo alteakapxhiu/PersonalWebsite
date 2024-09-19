@@ -3,6 +3,7 @@ import { ProjectsCard } from './ProjectsCard';
 import Glide from '../assets/img/Glide.png';
 import Portfolio from '../assets/img/Portfolio.png';
 import Fancy from '../assets/img/Fancy.jpeg';
+import Jewellery from '../assets/img/Jewellery.jpeg'
 import MysticAlbania from '../assets/img/MysticAlbania.jpeg';
 import Calculator from '../assets/img/Calculator.jpeg';
 import TaskPro from '../assets/img/TaskPro.jpeg';
@@ -23,7 +24,7 @@ export const Projects = () => {
         {
           title: "INTERACTIVE BUSINESS WEBSITE",
           description: "A jewellery website responsive template designed and developed for shops/businesses to showcase and sell their products.",
-          imgUrl: 'https://camo.githubusercontent.com/4a9f31372f75370039d44e0f1360abc15019209f1c936f423ec16e18566a8601/68747470733a2f2f692e706f7374696d672e63632f3032797a474853352f436f7665722d416c6973612d4a6577656c732d312e706e67',
+          imgUrl: Jewellery,
           url: "https://alteakapxhiu.github.io/Interactive-Shop-Business-Website/"
         },
         {
