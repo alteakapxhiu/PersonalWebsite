@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.eba2d173.css",
+    "main.css": "/PersonalWebsite/static/css/main.921c9b8d.css",
     "main.js": "/PersonalWebsite/static/js/main.86c35a69.js",
     "static/js/453.aa95871c.chunk.js": "/PersonalWebsite/static/js/453.aa95871c.chunk.js",
     "static/media/AlteaProfile.gif": "/PersonalWebsite/static/media/AlteaProfile.a0a21f92602156e4d04e.gif",
@@ -34,12 +34,12 @@
     "static/media/revicons.woff": "/PersonalWebsite/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PersonalWebsite/index.html",
-    "main.eba2d173.css.map": "/PersonalWebsite/static/css/main.eba2d173.css.map",
+    "main.921c9b8d.css.map": "/PersonalWebsite/static/css/main.921c9b8d.css.map",
     "main.86c35a69.js.map": "/PersonalWebsite/static/js/main.86c35a69.js.map",
     "453.aa95871c.chunk.js.map": "/PersonalWebsite/static/js/453.aa95871c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eba2d173.css",
+    "static/css/main.921c9b8d.css",
     "static/js/main.86c35a69.js"
   ]
 }
