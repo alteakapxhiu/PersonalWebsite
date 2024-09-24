@@ -1094,9 +1094,9 @@ position:absolute;
 
 .img {
   width: 45%;
-  height: 90%;
+  height: 85%;
   position: absolute;
-  top: 8%;
+  top: 13%;
   left: -10%;
   transform: translateX(-10%);
 }
