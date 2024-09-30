@@ -9,6 +9,7 @@ import BackendAltea from '../assets/img/BackendAltea.jpg';
 import Stefora from '../assets/img/Stefora.png';
 import Pioneers from '../assets/img/Pioneers.png';
 import Python from '../assets/img/Python.jpeg';
+import certificategif from '../assets/img/certificategif.gif';
 import { useInView } from 'react-intersection-observer';
 
 
@@ -127,7 +128,10 @@ export const Certeficates = () => {
            </div>
             <Container className={`slide-in ${inView ? 'visible' : ''}`}>
                 <Row>
+                  
                     <Col>
+                    <img src= {certificategif} class="responsive-img1" alt="Stats" />
+
                     <h2>MY PERSONAL CERTIFICATES</h2>
                     <hr/>
                     <p>

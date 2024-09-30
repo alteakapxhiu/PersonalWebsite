@@ -3,12 +3,13 @@ import { ProjectsCard } from './ProjectsCard';
 import AlisaGlide from '../assets/img/AlisaGlide.jpeg';
 import Portfolio from '../assets/img/Portfolio.png';
 import Fancy from '../assets/img/Fancy.jpeg';
+import GifStats from '../assets/img/GifStats.gif';
 import Jewellery from '../assets/img/Jewellery.jpeg'
-import MysticAlbania from '../assets/img/MysticAlbania.jpeg';
-import Calculator from '../assets/img/Calculator.jpeg';
+import MysticAlbania from '../assets/img/MysticAlbania.png';
+import Calulator from '../assets/img/Calulator.png';
 import TaskproApp from '../assets/img/TaskproApp.jpeg';
 import Campus from '../assets/img/Campus.jpeg';
-import PersonalPortfolio from '../assets/img/PersonalPortfolio.jpeg';
+import PersonalPortfolio from '../assets/img/PersonalPortfolio.png';
 import { useInView } from 'react-intersection-observer';
 
 
@@ -30,7 +31,7 @@ export const Projects = () => {
         {
           title: "CALCULATOR APP",
           description: "A Simple calculator App created using Javascript.",
-          imgUrl: Calculator ,
+          imgUrl: Calulator ,
           url: "https://alteakapxhiu.github.io/CalculatorApp/"
         },
         {
@@ -55,13 +56,13 @@ export const Projects = () => {
       
      const  projects1 = [
         {
-          title: "TaskPro ",
-          description: "Todo and Agenda tracking app using React-Native,Node.js & Expo",
+          title: "TO DO  & AGENDA APP TASKPRO ",
+          description: "Todo List and Agenda tracking app using React-Native,Node.js & Expo",
           imgUrl: TaskproApp,
           url: "https://www.youtube.com/watch?v=9TDUVcv2_yM"
         },
         {
-            title: "Alisa Cosmetics",
+            title: "ALISA COSMETICS",
             description: "Cosmeics Store App using Glide",
           imgUrl: AlisaGlide,
           url: "https://alisacosmetics.glide.page/dl/home"
@@ -129,7 +130,13 @@ export const Projects = () => {
            </div>
             <Container className={`slide-in ${inView ? 'visible' : ''}`}>
                 <Row>
-                    <Col>
+                    <Col >
+                    
+                    <img src= {GifStats} class="responsive-img" alt="Stats" 
+/>
+
+
+
                     <h2>MY PERSONAL PROJECTS</h2>
                     <hr/>
                     <p>
