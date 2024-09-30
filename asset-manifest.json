@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.921c9b8d.css",
-    "main.js": "/PersonalWebsite/static/js/main.86c35a69.js",
+    "main.css": "/PersonalWebsite/static/css/main.e178d7ec.css",
+    "main.js": "/PersonalWebsite/static/js/main.19410adb.js",
     "static/js/453.aa95871c.chunk.js": "/PersonalWebsite/static/js/453.aa95871c.chunk.js",
     "static/media/AlteaProfile.gif": "/PersonalWebsite/static/media/AlteaProfile.a0a21f92602156e4d04e.gif",
+    "static/media/MysticAlbania.png": "/PersonalWebsite/static/media/MysticAlbania.ab08e2ccf124c5957fbe.png",
+    "static/media/GifStats.gif": "/PersonalWebsite/static/media/GifStats.8d465587a25a7effd267.gif",
     "static/media/Italian.png": "/PersonalWebsite/static/media/Italian.0ddfa21b14ecee3be476.png",
     "static/media/Pioneers.png": "/PersonalWebsite/static/media/Pioneers.b95730a78109c1b43198.png",
     "static/media/Stefora.png": "/PersonalWebsite/static/media/Stefora.b4f92225ec8b7ed793b8.png",
+    "static/media/certificategif.gif": "/PersonalWebsite/static/media/certificategif.17c8b647d009bc4176ea.gif",
+    "static/media/PersonalPortfolio.png": "/PersonalWebsite/static/media/PersonalPortfolio.e144a9007d67f6573b20.png",
     "static/media/Portfolio.png": "/PersonalWebsite/static/media/Portfolio.3a9706a3b0e5648b699f.png",
     "static/media/fa-solid-900.ttf": "/PersonalWebsite/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/Calulator.png": "/PersonalWebsite/static/media/Calulator.f69f9812bf80edbeeca1.png",
     "static/media/BackendAltea.jpg": "/PersonalWebsite/static/media/BackendAltea.467418ea034506d4dff2.jpg",
     "static/media/FinalDiploma.jpeg": "/PersonalWebsite/static/media/FinalDiploma.3d3ff4a8434dd9d42989.jpeg",
     "static/media/Campus.jpeg": "/PersonalWebsite/static/media/Campus.70c31bc260b2b4f5b78d.jpeg",
     "static/media/fa-brands-400.ttf": "/PersonalWebsite/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/MysticAlbania.jpeg": "/PersonalWebsite/static/media/MysticAlbania.b75a52b6f0c3e9204be7.jpeg",
     "static/media/AlisaGlide.jpeg": "/PersonalWebsite/static/media/AlisaGlide.8fffcbdd258aa7ae8028.jpeg",
     "static/media/CSHARP.png": "/PersonalWebsite/static/media/CSHARP.a7acc30db8826334377c.png",
-    "static/media/PersonalPortfolio.jpeg": "/PersonalWebsite/static/media/PersonalPortfolio.7f188ca8c4967f9fac4f.jpeg",
     "static/media/fa-solid-900.woff2": "/PersonalWebsite/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/TaskproApp.jpeg": "/PersonalWebsite/static/media/TaskproApp.bf91fac130e9eb892dc6.jpeg",
     "static/media/fa-brands-400.woff2": "/PersonalWebsite/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/Calculator.jpeg": "/PersonalWebsite/static/media/Calculator.4b5991d361176356ad20.jpeg",
     "static/media/Fancy.jpeg": "/PersonalWebsite/static/media/Fancy.9aacef9432994d4a3f2f.jpeg",
     "static/media/CODEJEWELS.jpeg": "/PersonalWebsite/static/media/CODEJEWELS.cd4a8f1e3b7cf014c067.jpeg",
     "static/media/Python.jpeg": "/PersonalWebsite/static/media/Python.5243ad6fb973a112e2a5.jpeg",
@@ -34,12 +36,12 @@
     "static/media/revicons.woff": "/PersonalWebsite/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PersonalWebsite/index.html",
-    "main.921c9b8d.css.map": "/PersonalWebsite/static/css/main.921c9b8d.css.map",
-    "main.86c35a69.js.map": "/PersonalWebsite/static/js/main.86c35a69.js.map",
+    "main.e178d7ec.css.map": "/PersonalWebsite/static/css/main.e178d7ec.css.map",
+    "main.19410adb.js.map": "/PersonalWebsite/static/js/main.19410adb.js.map",
     "453.aa95871c.chunk.js.map": "/PersonalWebsite/static/js/453.aa95871c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.921c9b8d.css",
-    "static/js/main.86c35a69.js"
+    "static/css/main.e178d7ec.css",
+    "static/js/main.19410adb.js"
   ]
 }
