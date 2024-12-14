@@ -9,10 +9,12 @@ import BackendAltea from '../assets/img/BackendAltea.jpg';
 import Stefora from '../assets/img/Stefora.png';
 import Pioneers from '../assets/img/Pioneers.png';
 import SEO from '../assets/img/SEO.png';
+import SoftwareDev from '../assets/img/SoftwareDev.jpg';
+import SCRUM from '../assets/img/Scrum Master.jpg';
+import FullStack from '../assets/img/Full Stack Altea.jpeg';
 import Python from '../assets/img/Python.jpeg';
 import certificategif from '../assets/img/certificategif.gif';
 import { useInView } from 'react-intersection-observer';
-
 
 
 export const Certeficates = () => {
@@ -31,10 +33,10 @@ export const Certeficates = () => {
       url: "https://www.freecodecamp.org/certification/AlteaKapxhiu/foundational-c-sharp-with-microsoft"
     },
     {
-      title: "LEARN PYTHON 3",
-      description: "CODEACADEMY",
-      imgUrl: Python,
-      url: "https://alteakapxhiu.github.io/Interactive-Shop-Business-Website/"
+      title: "FULL-STACK DEVELOPMENT",
+      description: "Albanian ICT Academy",
+      imgUrl: FullStack,
+      url: "https://drive.google.com/file/d/13wtU9dRvp92sisX03DpOogLxodGIwpO0/view"
     },
     {
       title: "Back End Development and APIs",
@@ -43,17 +45,30 @@ export const Certeficates = () => {
       url: "https://www.freecodecamp.org/certification/AlteaKapxhiu/foundational-c-sharp-with-microsoft"
     },
     {
+      title: "Software Development Fundamentals",
+      description: "Simplilearn",
+      imgUrl: SoftwareDev,
+      url: "https://simpli-web.app.link/e/Eoi6krFfkPb"
+    },
+    {
+      title: "Agile Scrum Master",
+      description: "Simplilearn",
+      imgUrl: SCRUM,
+      url: "https://simpli-web.app.link/e/nuopfiLehPb"
+    },
+    {
       title: "SEO Specialist - Keyword Research with Semrush",
       description: "Semrush Academy",
       imgUrl: SEO,
       url: "https://static.semrush.com/academy/certificates/993aba3d13/altea-kapxhiu_1.pdf"
     },
     {
-      title: "FULL-STACK DEVELOPMENT",
-      description: "Albanian ICT Academy",
-      imgUrl: 'https://albanianictacademy.com/wp-content/uploads/2024/01/logo-transparent.png',
-      url: "https://alteakapxhiu.github.io/CalculatorApp/"
+      title: "LEARN PYTHON 3",
+      description: "CODEACADEMY",
+      imgUrl: Python,
+      url: "https://alteakapxhiu.github.io/Interactive-Shop-Business-Website/"
     },
+
 
 
   ];

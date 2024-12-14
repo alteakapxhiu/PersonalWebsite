@@ -24,7 +24,7 @@ const Experience = () => {
                 </p>
               </li>
               <li className="event" data-date="Jan 2024 - Apr 2024">
-                <h4 className="mb-3 pt-3">Web-Developer</h4>
+                <h4 className="mb-3 pt-3">Wordpress Developer</h4>
                 <p>
                   Fancy Summer Sea View Apartments
                 </p>
@@ -35,10 +35,10 @@ const Experience = () => {
                   POS.AL
                 </p>
               </li>
-              <li className="event" data-date="00 - 00">
-                <h4 className="mb-3 pt-3">CS</h4>
+              <li className="event" data-date="Nov 2024">
+                <h4 className="mb-3 pt-3">SEO Specialist</h4>
                 <p className="mb-0">
-                  ...
+                  Wordpress Commercial Website
                 </p>
               </li>
             </ul>
