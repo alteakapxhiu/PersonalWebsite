@@ -18,7 +18,7 @@ const Experience = () => {
               className={`timeline-2 ${inView ? 'slide-in' : ''}`}
             >
               <li className="event" data-date="Jun 2023 - Dec 2024">
-                <h4 className="mb-3">Front End Developer</h4>
+                <h4 className="mb-3 pt-3">Front End Developer</h4>
                 <p>
                   New-Wisdom Foreign Languages center
                 </p>

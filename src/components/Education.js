@@ -8,17 +8,17 @@ const Education = () => {
   });
 
   return (
-  
+
     <div
       ref={ref}
       className={`slide-in ${inView ? 'visible' : ''}`}
     >
-       <div className='container'>
+      <div className='container'>
         <span className="education">EDUCATION</span>
         <span className="experience">EXPERIENCE</span>
       </div>
-          
-<hr/>
+
+      <hr />
       <ul className="timeline-1 text-black">
         <li className="event" data-date="2020 - 2023">
           <h4 className="mb-3">High-School</h4>
@@ -33,13 +33,14 @@ const Education = () => {
           </p>
         </li>
         <li className="event" data-date="2026 - 2028">
-          <h4 className="mb-3 pt-3">Master's</h4>
-          <p>...</p>
+          <h4 className="mb-3 pt-3">Software Engineering</h4>
+          <p>CIT</p>
         </li>
-        <li className="event" data-date="00 - 00">
-          <h4 className="mb-3 pt-3">Ph.D</h4>
-          <p className="mb-0">...</p>
+        <li className="event" data-date="2026 - 2028">
+          <h4 className="mb-3 pt-3">Software Engineering</h4>
+          <p>CIT</p>
         </li>
+
       </ul>
     </div>
   );

@@ -45,12 +45,6 @@ export const Certeficates = () => {
       url: "https://www.freecodecamp.org/certification/AlteaKapxhiu/foundational-c-sharp-with-microsoft"
     },
     {
-      title: "Software Development Fundamentals",
-      description: "Simplilearn",
-      imgUrl: SoftwareDev,
-      url: "https://simpli-web.app.link/e/Eoi6krFfkPb"
-    },
-    {
       title: "Agile Scrum Master",
       description: "Simplilearn",
       imgUrl: SCRUM,
@@ -61,6 +55,12 @@ export const Certeficates = () => {
       description: "Semrush Academy",
       imgUrl: SEO,
       url: "https://static.semrush.com/academy/certificates/993aba3d13/altea-kapxhiu_1.pdf"
+    },
+    {
+      title: "Software Development Fundamentals",
+      description: "Simplilearn",
+      imgUrl: SoftwareDev,
+      url: "https://simpli-web.app.link/e/Eoi6krFfkPb"
     },
     {
       title: "LEARN PYTHON 3",
