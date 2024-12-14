@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PersonalWebsite/static/css/main.e178d7ec.css",
-    "main.js": "/PersonalWebsite/static/js/main.bec34a3f.js",
+    "main.js": "/PersonalWebsite/static/js/main.48d9d15d.js",
     "static/js/453.aa95871c.chunk.js": "/PersonalWebsite/static/js/453.aa95871c.chunk.js",
     "static/media/AlteaProfile.gif": "/PersonalWebsite/static/media/AlteaProfile.a0a21f92602156e4d04e.gif",
     "static/media/MysticAlbania.png": "/PersonalWebsite/static/media/MysticAlbania.ab08e2ccf124c5957fbe.png",
@@ -11,7 +11,9 @@
     "static/media/Stefora.png": "/PersonalWebsite/static/media/Stefora.b4f92225ec8b7ed793b8.png",
     "static/media/certificategif.gif": "/PersonalWebsite/static/media/certificategif.17c8b647d009bc4176ea.gif",
     "static/media/PersonalPortfolio.png": "/PersonalWebsite/static/media/PersonalPortfolio.e144a9007d67f6573b20.png",
+    "static/media/SoftwareDev.jpg": "/PersonalWebsite/static/media/SoftwareDev.69c5a929a70fcb1413b0.jpg",
     "static/media/Portfolio.png": "/PersonalWebsite/static/media/Portfolio.3a9706a3b0e5648b699f.png",
+    "static/media/Scrum Master.jpg": "/PersonalWebsite/static/media/Scrum Master.f828a4f78dc1dfb3a100.jpg",
     "static/media/fa-solid-900.ttf": "/PersonalWebsite/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/Calulator.png": "/PersonalWebsite/static/media/Calulator.f69f9812bf80edbeeca1.png",
     "static/media/BackendAltea.jpg": "/PersonalWebsite/static/media/BackendAltea.467418ea034506d4dff2.jpg",
@@ -22,6 +24,7 @@
     "static/media/CSHARP.png": "/PersonalWebsite/static/media/CSHARP.a7acc30db8826334377c.png",
     "static/media/fa-solid-900.woff2": "/PersonalWebsite/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/TaskproApp.jpeg": "/PersonalWebsite/static/media/TaskproApp.bf91fac130e9eb892dc6.jpeg",
+    "static/media/Full Stack Altea.jpeg": "/PersonalWebsite/static/media/Full Stack Altea.6e89fdf4d9b6ce4a7537.jpeg",
     "static/media/fa-brands-400.woff2": "/PersonalWebsite/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/SEO.png": "/PersonalWebsite/static/media/SEO.b407f5ceb9bd3c3bfb8b.png",
     "static/media/Fancy.jpeg": "/PersonalWebsite/static/media/Fancy.9aacef9432994d4a3f2f.jpeg",
@@ -38,11 +41,11 @@
     "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PersonalWebsite/index.html",
     "main.e178d7ec.css.map": "/PersonalWebsite/static/css/main.e178d7ec.css.map",
-    "main.bec34a3f.js.map": "/PersonalWebsite/static/js/main.bec34a3f.js.map",
+    "main.48d9d15d.js.map": "/PersonalWebsite/static/js/main.48d9d15d.js.map",
     "453.aa95871c.chunk.js.map": "/PersonalWebsite/static/js/453.aa95871c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e178d7ec.css",
-    "static/js/main.bec34a3f.js"
+    "static/js/main.48d9d15d.js"
   ]
 }
