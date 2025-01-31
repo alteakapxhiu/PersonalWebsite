@@ -9,6 +9,7 @@ import MysticAlbania from '../assets/img/MysticAlbania.png';
 import Calulator from '../assets/img/Calulator.png';
 import TaskproApp from '../assets/img/TaskproApp.jpeg';
 import Campus from '../assets/img/Campus.jpeg';
+import POLISMART from '../assets/img/POLISMART.png';
 import PersonalPortfolio from '../assets/img/PersonalPortfolio.png';
 import { useInView } from 'react-intersection-observer';
 
@@ -23,22 +24,10 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "INTERACTIVE BUSINESS WEBSITE",
-      description: "A jewellery website responsive template designed and developed for shops/businesses to showcase and sell their products.",
-      imgUrl: Jewellery,
-      url: "https://alteakapxhiu.github.io/Jewelry-E-Commerce-Website/"
-    },
-    {
-      title: "CALCULATOR APP",
-      description: "A Simple calculator App created using Javascript.",
-      imgUrl: Calulator,
-      url: "https://alteakapxhiu.github.io/CalculatorApp/"
-    },
-    {
-      title: "MY PERSONAL PORTFOLIO",
-      description: "My personal portfolio created using React.js, Bootstrap & Express ",
-      imgUrl: PersonalPortfolio,
-      url: ""
+      title: "MYSTIC ALBANIA",
+      description: "Tourism Website for Albania developed using React.js & Bootstrap ",
+      imgUrl: MysticAlbania,
+      url: "https://alteakapxhiu.github.io/MysticAlbania/"
     },
     {
       title: "WORDPRESS WEBSITE",
@@ -47,10 +36,22 @@ export const Projects = () => {
       url: "https://fancysummerseaview1.wordpress.com/"
     },
     {
-      title: "MYSTIC ALBANIA",
-      description: "Tourism Website for Albania developed using React.js & Bootstrap ",
-      imgUrl: MysticAlbania,
-      url: "https://alteakapxhiu.github.io/MysticAlbania/"
+      title: "MY PERSONAL PORTFOLIO",
+      description: "My personal portfolio created using React.js, Bootstrap & Express ",
+      imgUrl: PersonalPortfolio,
+      url: "/"
+    },
+    {
+      title: "CALCULATOR APP",
+      description: "A Simple calculator App created using Javascript.",
+      imgUrl: Calulator,
+      url: "https://alteakapxhiu.github.io/CalculatorApp/"
+    },
+    {
+      title: "INTERACTIVE BUSINESS WEBSITE",
+      description: "A jewellery website responsive template designed and developed for shops/businesses to showcase and sell their products.",
+      imgUrl: Jewellery,
+      url: "https://alteakapxhiu.github.io/Jewelry-E-Commerce-Website/"
     }
   ];
 
@@ -62,19 +63,17 @@ export const Projects = () => {
       url: "https://github.com/alteakapxhiu/TaskPro"
     },
     {
+      title: "POLIS SMART CAMPUS",
+      description: "IOT DEVICE MANAGEMENT APP FOR UNIVERSITY SPACE",
+      imgUrl: POLISMART,
+      url: "https://github.com/alteakapxhiu/PolisApp"
+    },
+    {
       title: "ALISA COSMETICS",
       description: "Cosmetics Store App using Glide",
       imgUrl: AlisaGlide,
       url: "https://alisacosmetics.glide.page/dl/home"
     },
-    {
-      title: "In Progress..",
-      description: "Undergoing Design & Development",
-      imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
-      url: ""
-    },
-
-
   ];
   const projects2 = [
     {

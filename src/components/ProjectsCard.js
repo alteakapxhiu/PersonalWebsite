@@ -1,4 +1,4 @@
-import { Col,Container} from 'react-bootstrap';
+import { Col, Container } from 'react-bootstrap';
 
 
 export const ProjectsCard = ({ title, description, imgUrl, url }) => {
