@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PersonalWebsite/static/css/main.a2bd99b5.css",
-    "main.js": "/PersonalWebsite/static/js/main.1ab51d23.js",
+    "main.js": "/PersonalWebsite/static/js/main.cefe1169.js",
     "static/js/453.aa95871c.chunk.js": "/PersonalWebsite/static/js/453.aa95871c.chunk.js",
     "static/media/AlteaProfile.gif": "/PersonalWebsite/static/media/AlteaProfile.a0a21f92602156e4d04e.gif",
     "static/media/MysticAlbania.png": "/PersonalWebsite/static/media/MysticAlbania.ab08e2ccf124c5957fbe.png",
@@ -43,11 +43,11 @@
     "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PersonalWebsite/index.html",
     "main.a2bd99b5.css.map": "/PersonalWebsite/static/css/main.a2bd99b5.css.map",
-    "main.1ab51d23.js.map": "/PersonalWebsite/static/js/main.1ab51d23.js.map",
+    "main.cefe1169.js.map": "/PersonalWebsite/static/js/main.cefe1169.js.map",
     "453.aa95871c.chunk.js.map": "/PersonalWebsite/static/js/453.aa95871c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2bd99b5.css",
-    "static/js/main.1ab51d23.js"
+    "static/js/main.cefe1169.js"
   ]
 }
