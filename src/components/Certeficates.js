@@ -12,7 +12,8 @@ import SEO from '../assets/img/SEO.png';
 import SoftwareDev from '../assets/img/SoftwareDev.jpg';
 import SCRUM from '../assets/img/Scrum Master.jpg';
 import FullStack from '../assets/img/Full Stack Altea.jpeg';
-import Python from '../assets/img/Python.jpeg';
+import Python3 from '../assets/img/Python3.png';
+import AI from '../assets/img/AI.png';
 import certificategif from '../assets/img/certificategif.gif';
 import { useInView } from 'react-intersection-observer';
 
@@ -39,10 +40,22 @@ export const Certeficates = () => {
       url: "https://drive.google.com/file/d/13wtU9dRvp92sisX03DpOogLxodGIwpO0/view"
     },
     {
-      title: "Back End Development and APIs",
-      description: "FreeCodeCamp  ",
-      imgUrl: BackendAltea,
-      url: "https://www.freecodecamp.org/certification/AlteaKapxhiu/foundational-c-sharp-with-microsoft"
+      title: "LEARN PYTHON 3 COURSE",
+      description: "CODEACADEMY",
+      imgUrl: Python3,
+      url: "https://www.codecademy.com/profiles/altea_kapxhiu/certificates/6c152bd262967f8c941c9707ed636bda"
+    },
+    {
+      title: "Software Development Fundamentals",
+      description: "Simplilearn",
+      imgUrl: SoftwareDev,
+      url: "https://simpli-web.app.link/e/Eoi6krFfkPb"
+    },
+    {
+      title: "LANGUAGE MODELS IN PYTHON : GENERATIVE TEXT",
+      description: "CODEACADEMY",
+      imgUrl: AI,
+      url: "https://www.codecademy.com/profiles/altea_kapxhiu/certificates/93274c15b5d1b933de1c61f63461b69f"
     },
     {
       title: "Agile Scrum Master",
@@ -56,17 +69,12 @@ export const Certeficates = () => {
       imgUrl: SEO,
       url: "https://static.semrush.com/academy/certificates/993aba3d13/altea-kapxhiu_1.pdf"
     },
+
     {
-      title: "Software Development Fundamentals",
-      description: "Simplilearn",
-      imgUrl: SoftwareDev,
-      url: "https://simpli-web.app.link/e/Eoi6krFfkPb"
-    },
-    {
-      title: "LEARN PYTHON 3",
-      description: "CODEACADEMY",
-      imgUrl: Python,
-      url: "https://alteakapxhiu.github.io/Interactive-Shop-Business-Website/"
+      title: "Back End Development and APIs",
+      description: "FreeCodeCamp  ",
+      imgUrl: BackendAltea,
+      url: "https://www.freecodecamp.org/certification/AlteaKapxhiu/foundational-c-sharp-with-microsoft"
     },
 
 
