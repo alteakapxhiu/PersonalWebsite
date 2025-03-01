@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PersonalWebsite/static/css/main.a2bd99b5.css",
-    "main.js": "/PersonalWebsite/static/js/main.cefe1169.js",
+    "main.js": "/PersonalWebsite/static/js/main.75727345.js",
     "static/js/453.aa95871c.chunk.js": "/PersonalWebsite/static/js/453.aa95871c.chunk.js",
     "static/media/AlteaProfile.gif": "/PersonalWebsite/static/media/AlteaProfile.a0a21f92602156e4d04e.gif",
     "static/media/MysticAlbania.png": "/PersonalWebsite/static/media/MysticAlbania.ab08e2ccf124c5957fbe.png",
@@ -15,11 +15,13 @@
     "static/media/Portfolio.png": "/PersonalWebsite/static/media/Portfolio.3a9706a3b0e5648b699f.png",
     "static/media/Scrum Master.jpg": "/PersonalWebsite/static/media/Scrum Master.f828a4f78dc1dfb3a100.jpg",
     "static/media/fa-solid-900.ttf": "/PersonalWebsite/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/AI.png": "/PersonalWebsite/static/media/AI.b4395618275974d1585a.png",
     "static/media/Calulator.png": "/PersonalWebsite/static/media/Calulator.f69f9812bf80edbeeca1.png",
     "static/media/BackendAltea.jpg": "/PersonalWebsite/static/media/BackendAltea.467418ea034506d4dff2.jpg",
     "static/media/FinalDiploma.jpeg": "/PersonalWebsite/static/media/FinalDiploma.3d3ff4a8434dd9d42989.jpeg",
     "static/media/POLISMART.png": "/PersonalWebsite/static/media/POLISMART.7834dfd990408025ec0f.png",
     "static/media/Campus.jpeg": "/PersonalWebsite/static/media/Campus.70c31bc260b2b4f5b78d.jpeg",
+    "static/media/Python3.png": "/PersonalWebsite/static/media/Python3.cf8c213983484eaf5696.png",
     "static/media/fa-brands-400.ttf": "/PersonalWebsite/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/LinkedinLogo.png": "/PersonalWebsite/static/media/LinkedinLogo.a93f54e167a182f8d3e0.png",
     "static/media/AlisaGlide.jpeg": "/PersonalWebsite/static/media/AlisaGlide.8fffcbdd258aa7ae8028.jpeg",
@@ -31,7 +33,6 @@
     "static/media/SEO.png": "/PersonalWebsite/static/media/SEO.b407f5ceb9bd3c3bfb8b.png",
     "static/media/Fancy.jpeg": "/PersonalWebsite/static/media/Fancy.9aacef9432994d4a3f2f.jpeg",
     "static/media/CODEJEWELS.jpeg": "/PersonalWebsite/static/media/CODEJEWELS.cd4a8f1e3b7cf014c067.jpeg",
-    "static/media/Python.jpeg": "/PersonalWebsite/static/media/Python.5243ad6fb973a112e2a5.jpeg",
     "static/media/fa-regular-400.ttf": "/PersonalWebsite/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
     "static/media/Jewellery.jpeg": "/PersonalWebsite/static/media/Jewellery.5a69e91b96d47d93fba9.jpeg",
     "static/media/Konferenca.jpeg": "/PersonalWebsite/static/media/Konferenca.84490e244c15af316a00.jpeg",
@@ -43,11 +44,11 @@
     "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PersonalWebsite/index.html",
     "main.a2bd99b5.css.map": "/PersonalWebsite/static/css/main.a2bd99b5.css.map",
-    "main.cefe1169.js.map": "/PersonalWebsite/static/js/main.cefe1169.js.map",
+    "main.75727345.js.map": "/PersonalWebsite/static/js/main.75727345.js.map",
     "453.aa95871c.chunk.js.map": "/PersonalWebsite/static/js/453.aa95871c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2bd99b5.css",
-    "static/js/main.cefe1169.js"
+    "static/js/main.75727345.js"
   ]
 }
