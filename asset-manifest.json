@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PersonalWebsite/static/css/main.a2bd99b5.css",
-    "main.js": "/PersonalWebsite/static/js/main.75727345.js",
+    "main.js": "/PersonalWebsite/static/js/main.0b8ec946.js",
     "static/js/453.aa95871c.chunk.js": "/PersonalWebsite/static/js/453.aa95871c.chunk.js",
     "static/media/AlteaProfile.gif": "/PersonalWebsite/static/media/AlteaProfile.a0a21f92602156e4d04e.gif",
     "static/media/MysticAlbania.png": "/PersonalWebsite/static/media/MysticAlbania.ab08e2ccf124c5957fbe.png",
@@ -11,6 +11,8 @@
     "static/media/Stefora.png": "/PersonalWebsite/static/media/Stefora.b4f92225ec8b7ed793b8.png",
     "static/media/certificategif.gif": "/PersonalWebsite/static/media/certificategif.17c8b647d009bc4176ea.gif",
     "static/media/PersonalPortfolio.png": "/PersonalWebsite/static/media/PersonalPortfolio.e144a9007d67f6573b20.png",
+    "static/media/New_Wisdom_Web.png": "/PersonalWebsite/static/media/New_Wisdom_Web.762f410cedcecb656936.png",
+    "static/media/WorkGo_UI.png": "/PersonalWebsite/static/media/WorkGo_UI.0e22d0896ea864cd48d1.png",
     "static/media/SoftwareDev.jpg": "/PersonalWebsite/static/media/SoftwareDev.69c5a929a70fcb1413b0.jpg",
     "static/media/Portfolio.png": "/PersonalWebsite/static/media/Portfolio.3a9706a3b0e5648b699f.png",
     "static/media/Scrum Master.jpg": "/PersonalWebsite/static/media/Scrum Master.f828a4f78dc1dfb3a100.jpg",
@@ -24,8 +26,10 @@
     "static/media/Python3.png": "/PersonalWebsite/static/media/Python3.cf8c213983484eaf5696.png",
     "static/media/fa-brands-400.ttf": "/PersonalWebsite/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/LinkedinLogo.png": "/PersonalWebsite/static/media/LinkedinLogo.a93f54e167a182f8d3e0.png",
+    "static/media/ChatbotCD.png": "/PersonalWebsite/static/media/ChatbotCD.0f45095acede9b304178.png",
     "static/media/AlisaGlide.jpeg": "/PersonalWebsite/static/media/AlisaGlide.8fffcbdd258aa7ae8028.jpeg",
     "static/media/CSHARP.png": "/PersonalWebsite/static/media/CSHARP.a7acc30db8826334377c.png",
+    "static/media/Qr_Generator.png": "/PersonalWebsite/static/media/Qr_Generator.6cb53594d167aae94d63.png",
     "static/media/fa-solid-900.woff2": "/PersonalWebsite/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/TaskproApp.jpeg": "/PersonalWebsite/static/media/TaskproApp.bf91fac130e9eb892dc6.jpeg",
     "static/media/Full Stack Altea.jpeg": "/PersonalWebsite/static/media/Full Stack Altea.6e89fdf4d9b6ce4a7537.jpeg",
@@ -44,11 +48,11 @@
     "static/media/fa-v4compatibility.woff2": "/PersonalWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PersonalWebsite/index.html",
     "main.a2bd99b5.css.map": "/PersonalWebsite/static/css/main.a2bd99b5.css.map",
-    "main.75727345.js.map": "/PersonalWebsite/static/js/main.75727345.js.map",
+    "main.0b8ec946.js.map": "/PersonalWebsite/static/js/main.0b8ec946.js.map",
     "453.aa95871c.chunk.js.map": "/PersonalWebsite/static/js/453.aa95871c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2bd99b5.css",
-    "static/js/main.75727345.js"
+    "static/js/main.0b8ec946.js"
   ]
 }
