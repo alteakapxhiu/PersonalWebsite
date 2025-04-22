@@ -162,13 +162,13 @@ export const Certeficates = () => {
           <Col>
             <img src={certificategif} class="responsive-img1" alt="Stats" />
 
-            <h2>MY PERSONAL CERTIFICATES</h2>
+            <h2>COURSES & CERTIFICATIONS</h2>
             <hr />
             <p>This section highlights my diverse certifications across various fields, including programming languages, SEO and more, showcasing my dedication to continuous learning and professional development.</p>
             <Tab.Container id="projects-tabs" defaultActiveKey="first">
               <Nav variant="pills" defaultActiveKey="/home">
                 <Nav.Item>
-                  <Nav.Link eventKey="first">PROGRAMMING CERTIFICATIONS</Nav.Link>
+                  <Nav.Link eventKey="first">TECHNICAL CERTIFICATIONS</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link eventKey="second">ACADEMIC CERTIFICATIONS</Nav.Link>

@@ -408,6 +408,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-weight: 700;
 }
 
+.skillset {
+  width: 15%;
+  position: "relative" ;
+}
+
 @media (max-width: 1024px) {
   .skill h5 {
     font-size: 35px; 
@@ -419,6 +424,15 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     font-size: 24px; 
   }
 }
+
+@media (max-width: 768px) {
+  .skillset {
+    padding-top: 5%;
+    width: 45%;
+    position: "relative" ;
+  }
+}
+
 
 .skill p {
   background: radial-gradient(circle, rgba(153,76,205,1) 9%, rgba(174,106,218,1) 21%, rgba(197,149,222,1) 63%, rgba(249,225,247,1) 94%, rgba(254,218,251,1) 95%);

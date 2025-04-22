@@ -50,7 +50,7 @@ const MyCarousel = () => {
           <h2>MY SKILLS</h2>
           <hr />
           <p>
-            As a junior software developer, I possess a solid foundation in software development principles and practices. I am eager to continue building my expertise and contribute to innovative projects in a dynamic team environment.
+            As a junior software developer, I possess a solid foundation in software development principles and practices. These are some of my technical skills
           </p>
           <span className='skill-desc'>MY SKILLS INCLUDE:</span>
           <hr />
@@ -58,27 +58,27 @@ const MyCarousel = () => {
             <div className='item'>
               <img src={Untitled} alt='Web Development' />
               <h5>Web Development</h5>
-              <h6>REACT.JS / CSS-HTML / WORDPRESS / NODE.JS</h6>
+              <h6>REACT.JS / HTML-CSS-SCCS / WORDPRESS / TAILWIND / BOOTSTRAP</h6>
             </div>
             <div className='item'>
               <img src={AppDevChart} alt='App Development' />
               <h5>App Development</h5>
-              <h6>REACT-NATIVE</h6>
+              <h6>REACT-NATIVE / FLUTTER</h6>
             </div>
             <div className='item'>
               <img src={ProgChart} alt='Programming Languages' />
               <h5>Programming Languages</h5>
-              <h6>JAVA / JAVASCRIPT / PYTHON / C# </h6>
+              <h6>JAVA / JAVASCRIPT / PYTHON / C# / C++</h6>
             </div>
             <div className='item'>
               <img src={FrontEndChart} alt='Frontend Development' />
               <h5>Frontend Development</h5>
-              <h6>HTML / CSS / REACT / BOOTSTRAP</h6>
+              <h6>HTML-CSS / REACT / ANGULAR / VUE</h6>
             </div>
             <div className='item'>
               <img src={BackEndChart} alt='Backend Development' />
               <h5>Backend Development</h5>
-              <h6>DJANGO / PHP</h6>
+              <h6>DJANGO / PHP / NODE.JS / SPRINGBOOT</h6>
             </div>
             <div className='item'>
               <img src={DatabaseChart} alt='Programming Languages' />
