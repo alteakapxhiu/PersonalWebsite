@@ -65,7 +65,7 @@ export const Banner = () => {
                             <br /><br />
                             💻 I have experience building mobile apps with React Native, Flutter, and Android Studio, and front-end web development using HTML, CSS, SCSS, Bootstrap, and Tailwind. I also have a foundation in cybersecurity, DevOps, and game development with platforms like Unreal Engine and Unity.
                             <br /><br />
-                            I’m currently expanding my knowledge in cloud technologies like AWS and Azure, and exploring AI-driven tools like GitHub Copilot to improve my development process. I’m eager to apply my skills to real-world projects and contribute to a dynamic team.
+
                         </p> <a href="mailto:alteakapxhiu@gmail.com?subject=Let’s%20Connect&body=Hello%2C%0D%0AI%20would%20like%20to%20connect%20with%20you.%0D%0A%0D%0AThank%20you.">
                             <button className="vvd" ><span >Let’s Connect</span></button>
                         </a>

@@ -13,7 +13,7 @@ body {
   font-weight: 400;
   overflow-x: hidden;
   position: relative;
-  background-color: #121212 !important;
+  background-color: #c8c8c8 !important;
   color: #fff !important;
   font-family: 'Centra', sans-serif !important;
 }
@@ -287,7 +287,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 8px 10px;
   border-top: 5px solid rgba(255, 255, 255, 0.5);
   border-bottom: 5px solid rgba(255, 255, 255, 0.5);
- border-color: rgb(175, 129, 218);
+ border-color: rgb(153, 77, 171);
   padding: 2%;
 
   font-size: 20px;
@@ -303,7 +303,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   display: block;
 }
 .banner p {
-  color: #B8B8B8;
+  color: #5a5959;
   font-size: 18px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
@@ -313,7 +313,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   color: #fff;
  
   border: 2px solid rgba(255, 255, 255, 0.5);
- border-color: rgb(247, 185, 242);
+ border-color: rgb(153, 77, 171);
   padding: 2%;
   font-weight: 700;
   font-size: 20px;
@@ -381,7 +381,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .try{
   border-top: 2px solid rgba(255, 255, 255, 0.5);
   border-bottom: 2px solid rgba(255, 255, 255, 0.5);
- border-color: rgb(247, 185, 242);
+ border-color:rgb(153, 77, 171);
   padding: 2%;
 }
 .movingText{
@@ -396,7 +396,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .skill-bx {
-  background-color: #392c3b;
+  background-color: #362339b7;
   border-radius: 64px;
   text-align: center;
   padding: 60px 50px;
@@ -435,7 +435,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 
 .skill p {
-  background: radial-gradient(circle, rgba(153,76,205,1) 9%, rgba(174,106,218,1) 21%, rgba(197,149,222,1) 63%, rgba(249,225,247,1) 94%, rgba(254,218,251,1) 95%);
+  background: white;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 25px;
@@ -511,7 +511,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .project {
   padding: 80px 0;
   position: relative;
-  background-color: black;
+  background-color: rgb(200, 198, 198);
 }
 
 .project h2 {
@@ -521,7 +521,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .project p {
-  color: #B8B8B8;
+  color: #686868;
   font-size: 18px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
@@ -847,10 +847,10 @@ position:absolute;
 /*------- TIMELINE CSS ------*/
 
 .timeline-1 {
-  border-left: 3px solid #b565a7;
+  border-left: 3px solid #663a5e;
   border-bottom-right-radius: 4px;
   border-top-right-radius: 4px;
-  background: rgba(177, 99, 163, 0.09);
+  background: rgba(105, 59, 97, 0.441);
   margin: 0 auto;
   position: relative;
   padding: 50px;
@@ -888,7 +888,7 @@ position:absolute;
 }
 
 .timeline-1 .event {
-  border-bottom: 1px dashed #000;
+  border-bottom: 1px dashed #fffafa;
   padding-bottom: 25px;
   margin-bottom: 25px;
   position: relative;
@@ -953,10 +953,10 @@ position:absolute;
 /*------- TIMELINE 2 CSS ------*/
 
 .timeline-2 {
-  border-left: 3px solid #b565a7;
+  border-left: 3px solid #663a5e;
   border-bottom-right-radius: 4px;
   border-top-right-radius: 4px;
-  background: rgba(177, 99, 163, 0.09);
+  background: rgba(105, 59, 97, 0.441);
   margin: 0 auto;
   position: absolute;
   padding: 50px;
@@ -1008,7 +1008,7 @@ position:absolute;
 }
 
 .timeline-2 .event {
-  border-bottom: 1px dashed #000;
+  border-bottom: 1px dashed #ffffff;
   padding-bottom: 25px;
   margin-bottom: 25px;
   position: relative;

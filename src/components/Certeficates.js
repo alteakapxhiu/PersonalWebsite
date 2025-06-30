@@ -94,12 +94,7 @@ export const Certeficates = () => {
       imgUrl: Italian,
       url: "",
     },
-    {
-      title: "FINAL TEST B2 LEVEL FRENCH ",
-      description: "Golden Future",
-      imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
-      url: ""
-    },
+
 
 
   ];
@@ -110,18 +105,7 @@ export const Certeficates = () => {
       imgUrl: CODEJEWELS,
       url: "https://my.certifyme.online/verify/07a449dc17682"
     },
-    {
-      title: "In Progress..",
-      description: "Undergoing Design & Development",
-      imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
-      url: ''
-    },
-    {
-      title: "In Progress..",
-      description: "Undergoing Design & Development",
-      imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
-      url: ""
-    },
+
 
 
   ];
@@ -137,12 +121,6 @@ export const Certeficates = () => {
       description: "Workshop by Polis University & Stefora Project",
       imgUrl: Stefora,
       url: "https://drive.google.com/file/d/1c21LW2At_2xQdOlJkbH3jLZcjG48PRYy/view?usp=sharing"
-    },
-    {
-      title: "In Progress..",
-      description: "Undergoing Design & Development",
-      imgUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L3JtNTU4LWVsZW1lbnRzLXdvcmQtMDEteC5qcGc.jpg',
-      url: ""
     },
 
 
